@@ -4,8 +4,8 @@ Write a function called reverseArray which takes an array as an argument. Withou
 
 ## Whiteboard Process
 <!-- embedded whiteboard image -->
-Coming Soon ...
+![Whiteboard](code-challenge1-wb.png)
 
 ## Approach and Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
-Coming Soon ...
+I created a for loop in order to take an empty list and return the numbers from the original list in reverse. I used this approach because we couldn't use built in methods.
