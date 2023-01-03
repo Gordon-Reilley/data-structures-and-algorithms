@@ -13,6 +13,8 @@
        -  Extracts a value from the PseudoQueue, using a first-in, first-out approach.
 ## Whiteboard Process
 
+![Whiteboard](./whiteboard_cc11.png)
+
 ## Approach & Efficiency
 #### Approach
 - Create a **PsuedoQueue** class.
