@@ -27,4 +27,4 @@
 - Space: O(1) - constant space
 ## Solution
 
-- The solution code is located here: [Solution Code](../../tests/code_challenges/test_stack_queue_pseudo.py)
+- The solution code is located here: [Solution Code](../../code_challenges/stack_queue_pseudo.py)
