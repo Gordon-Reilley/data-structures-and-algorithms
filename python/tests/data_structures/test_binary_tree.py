@@ -27,6 +27,11 @@ def test_post_order(tree):
     expected = ["d", "e", "b", "f", "g", "c", "a"]
     assert actual == expected
 
+def test_post_order_empty(empty):
+    actual = empty.post_order()
+    expected = None
+    assert actual == expected
+
 
 @pytest.fixture
 def tree():
@@ -47,3 +52,8 @@ def tree():
     tree.root.right.right = Node("g")
 
     return tree
+
+@pytest.fixture
+def empty():
+    empty = BinaryTree()
+    return empty
