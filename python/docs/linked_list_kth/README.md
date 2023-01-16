@@ -8,13 +8,14 @@ Write the following method for the Linked List class:
     - You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges.
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-
+![Whiteboard](./code_challenge07_wb.png)
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 - Time: O(n) - linear time because “while” loop will grow with the size of the list.
 - Space: O(n) - linear space since ll_list grows with the linked list size
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
+The solution code is located in the `data_structures/linked_list.py` file.
 - Example 1:
 
   - Linked List: head -> {1} -> {3} -> {8} -> {2} -> X
