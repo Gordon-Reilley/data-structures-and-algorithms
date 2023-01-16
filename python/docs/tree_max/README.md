@@ -8,7 +8,7 @@ Write the following method for the Binary Tree class
 - Find the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-
+![Whiteboard](./code_challeng16_wb.png)
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 #### Approach
@@ -22,6 +22,7 @@ Write the following method for the Binary Tree class
 
 - Time: O(n) - “post_order” method will take linear time based on size of list
 - Space: O(n) - list will grow linearly with number of nodes
+
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
 The solution code can be found here: [Solution Code](../../data_structures/binary_tree.py)
