@@ -10,7 +10,7 @@
     -  Return: either a dog or a cat, based on preference.
     -  If pref is not "dog" or "cat" then return null.
 ## Whiteboard Process
-
+![Whiteboard](./code_challenge12_wb.png)
 ## Approach & Efficiency
 #### Approach
 - Create a **AnimalShelter** class.
