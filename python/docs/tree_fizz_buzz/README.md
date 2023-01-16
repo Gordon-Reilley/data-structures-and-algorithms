@@ -13,7 +13,7 @@
 - If the value is not divisible by 3 or 5, simply turn the number into a String.
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-
+![Whiteboard](./code_challeng18_wb.png)
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 - Starting with the root of the copied tree, pass in the root node into a helper function:
