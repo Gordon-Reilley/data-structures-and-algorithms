@@ -41,3 +41,4 @@ To run your tests
 - [Tree Breadth First](python/docs/tree_fizz_buzz/README.md)
 - [Insertion Sort](python/docs/insertion_sort/README.md)
 - [Merge Sort](sorting/merge/README.md)
+- [Hash Tables](python/docs/hashtable/README.md)
