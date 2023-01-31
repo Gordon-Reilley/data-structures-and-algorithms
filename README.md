@@ -42,3 +42,4 @@ To run your tests
 - [Insertion Sort](python/docs/insertion_sort/README.md)
 - [Merge Sort](sorting/merge/README.md)
 - [Hash Tables](python/docs/hashtable/README.md)
+- [Hash Repeated Word](python/docs/hashtable_repeated_word/README.md)
